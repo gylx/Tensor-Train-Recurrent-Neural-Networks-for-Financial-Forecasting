@@ -9,10 +9,14 @@ There are 3 jupyter notebooks in this repository:
 
 
 References: 
-  [1] Yang, Y., Krompass, D. and Tresp, V., 2017,
+1) Yang, Y., Krompass, D. and Tresp, V., 2017,
+
   "Tensor-train recurrent neural networks for video classification",
+
   arXiv preprint arXiv:1707.01786
-  ,
-  [2] Novikov, Alexander and Podoprikhin, Dmitry and Osokin, Anton and Vetrov, Dmitry,
+
+2) Novikov, Alexander and Podoprikhin, Dmitry and Osokin, Anton and Vetrov, Dmitry,
+  
   "Tensorizing Neural Networks",
+  
   Proceedings of Advances in Neural Information Processing Systems 28 (NIPS) 2015
